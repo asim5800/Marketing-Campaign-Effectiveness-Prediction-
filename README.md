@@ -1,5 +1,11 @@
 # Bank-Marketing-Effectiveness-Prediction-
 
+<p align="center">
+  <img width="460" height="300" src="https://mytekrescue.com/wp-content/uploads/2019/12/marketing-campaign.png">
+</p>
+
+
+
 ## Problem Statement
 The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. The classification goal is to predict if the client will subscribe a term deposit (variable y).
 The dataset consists of direct marketing campaigns data of a banking institution which consisted of 45211 data points with 17 independent variables out of which 7 were numeric features and 10 were categorical features.
@@ -29,7 +35,6 @@ Performed exploratory data analysis with to get insights from the data to observ
 | Logistic Regression (Under sampling)   | 0.89      | 0.85      | 0.83     | 0.94    |
 | Random Forest (Under sampling)     | 0.95       | 0.89      | 0.88     | 0.92    |
 | Random Forest (Over sampling)     | 0.93       | 0.88     | 0.81     | 0.82    |
-| KNN (Over sampling    | 0.87    | 0.82    | 0.69     | 0.78    |
 | XGBoost (Over sampling)     | 0.91   | 0.86    | 0.77     | 0.82    |
 
 
