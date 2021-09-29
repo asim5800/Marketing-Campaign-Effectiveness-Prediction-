@@ -1,4 +1,4 @@
-# Bank-Marketing-Effectiveness-Prediction-
+# Marketing-Campaign-Effectiveness-Prediction-
 
 <p align="center">
   <img width="460" height="300" src="https://mytekrescue.com/wp-content/uploads/2019/12/marketing-campaign.png">
